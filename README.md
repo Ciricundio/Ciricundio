@@ -69,7 +69,7 @@ Creo que la tecnología más poderosa es la que no se nota. La que simplemente f
 
 ---
 
-## `> connect --human`
+## connect human
 
 <div align="center">
 
