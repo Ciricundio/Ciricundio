@@ -55,14 +55,6 @@ Creo que la tecnología más poderosa es la que no se nota. La que simplemente f
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ciricundio&show_icons=true&hide_border=true&bg_color=111209&title_color=C0001A&icon_color=C0001A&text_color=D8CFBC&ring_color=C0001A" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciricundio&layout=compact&hide_border=true&bg_color=111209&title_color=C0001A&text_color=D8CFBC&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com/?user=Ciricundio&hide_border=true&background=111209&ring=C0001A&fire=C0001A&currStreakLabel=D8CFBC&sideLabels=565449&dates=565449&currStreakNum=FFFBF4&sideNums=D8CFBC" />
 
 </div>
