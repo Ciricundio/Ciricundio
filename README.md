@@ -88,8 +88,6 @@ Solo pasa de caos inaceptable a caos con documentación.
 
 <br/>
 
-**CYRUS s.a.s** &nbsp;·&nbsp; `Traer la tecnología del futuro al presente`
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C0001A&height=80&section=footer" width="100%"/>
 
 </div>
