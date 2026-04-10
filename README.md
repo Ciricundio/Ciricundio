@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1>CIRO A. MUÑOZ CAMARGO</h1>
+<h1>Ciro A. Muñoz Camargo</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=3500&pause=1000&color=C0001A&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+Founder+%40+Cyrus+s.a.s;Bringing+the+future%27s+technology+to+the+present.;Context+Engineer.+Builder.+Not+just+a+coder." alt="Typing" />
 
@@ -17,7 +17,7 @@
 
 ---
 
-## `> whoami`
+## whoami
 
 Construyo software y empresas con la misma mentalidad: **menos ruido, más intención.**
 
@@ -29,7 +29,7 @@ Creo que la tecnología más poderosa es la que no se nota. La que simplemente f
 
 ---
 
-## `> tech --stack`
+## stack
 
 **Lenguajes & Core**
 
@@ -51,7 +51,7 @@ Creo que la tecnología más poderosa es la que no se nota. La que simplemente f
 
 ---
 
-## `> stats --github`
+## stats github
 
 <div align="center">
 
