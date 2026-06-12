@@ -72,7 +72,7 @@ Creo que la tecnología más poderosa no se siente como tecnología. Se siente c
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@ciro__mun0z-101010?style=for-the-badge&logo=instagram&logoColor=C0001A&labelColor=101010)](https://www.instagram.com/ciro_mun0z/)
+[![Instagram](https://img.shields.io/badge/@ciro__mun0z-000000?style=for-the-badge&logo=instagram&logoColor=C0001A&labelColor=000000)](https://www.instagram.com/ciro_mun0z/)
 [![Email](https://img.shields.io/badge/ciromc012@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=C0001A&labelColor=101010)](mailto:ciromc012@gmail.com)
 [![GitHub](https://img.shields.io/badge/Ciricundio-101010?style=for-the-badge&logo=github&logoColor=D6D3CC&labelColor=101010)](https://github.com/Ciricundio)
 
