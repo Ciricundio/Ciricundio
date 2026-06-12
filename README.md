@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/CIRO%20A.%20MUÑOZ%20CAMARGO-101010?style=flat-square&labelColor=101010&color=101010)
-![](https://img.shields.io/badge/Colombia-101010?style=flat-square&labelColor=101010&color=1a1a1a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)
-![](https://img.shields.io/badge/Status-Building_Cyrus-101010?style=flat-square&labelColor=C0001A&color=101010)
+![](https://img.shields.io/badge/CIRO%20A.%20MUÑOZ%20CAMARGO-000000?style=flat-square&labelColor=000000&color=000000)
+![](https://img.shields.io/badge/Colombia-000000?style=flat-square&labelColor=000000&color=1a1a1a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)
+![](https://img.shields.io/badge/Status-Building_Cyrus-000000?style=flat-square&labelColor=C0001A&color=000000)
 
 </div>
 
@@ -32,21 +32,21 @@ Creo que la tecnología más poderosa no se siente como tecnología. Se siente c
 
 **Lenguajes & Core**
 
-![Python](https://img.shields.io/badge/Python-101010?style=flat-square&logo=python&logoColor=C0001A)
-![Bash](https://img.shields.io/badge/Bash-101010?style=flat-square&logo=gnubash&logoColor=D6D3CC)
-![Markdown](https://img.shields.io/badge/Markdown-101010?style=flat-square&logo=markdown&logoColor=D6D3CC)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=C0001A)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=D6D3CC)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=D6D3CC)
 
 **Context Engineering & AI**
 
-![Context Engineering](https://img.shields.io/badge/Context_Engineering-C0001A?style=flat-square&labelColor=101010)
-![Claude API](https://img.shields.io/badge/Claude_API-101010?style=flat-square&labelColor=1a1a1a&color=242424&label=Anthropic)
-![RAG](https://img.shields.io/badge/RAG_Systems-101010?style=flat-square&labelColor=1a1a1a&color=242424)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-C0001A?style=flat-square&labelColor=000000)
+![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&labelColor=1a1a1a&color=242424&label=Anthropic)
+![RAG](https://img.shields.io/badge/RAG_Systems-000000?style=flat-square&labelColor=1a1a1a&color=242424)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-101010?style=flat-square&logo=git&logoColor=C0001A)
-![GitHub](https://img.shields.io/badge/GitHub-101010?style=flat-square&logo=github&logoColor=D6D3CC)
-![VS Code](https://img.shields.io/badge/VS_Code-101010?style=flat-square&logo=visualstudiocode&logoColor=D6D3CC)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=C0001A)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D6D3CC)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=D6D3CC)
 
 ---
 
@@ -54,15 +54,15 @@ Creo que la tecnología más poderosa no se siente como tecnología. Se siente c
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ciricundio&show_icons=true&hide_border=true&bg_color=101010&title_color=C0001A&icon_color=C0001A&text_color=D6D3CC&ring_color=C0001A" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ciricundio&show_icons=true&hide_border=true&bg_color=000000&title_color=C0001A&icon_color=C0001A&text_color=D6D3CC&ring_color=C0001A" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciricundio&layout=compact&hide_border=true&bg_color=101010&title_color=C0001A&text_color=D6D3CC&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciricundio&layout=compact&hide_border=true&bg_color=000000&title_color=C0001A&text_color=D6D3CC&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Ciricundio&hide_border=true&background=101010&ring=C0001A&fire=C0001A&currStreakLabel=D6D3CC&sideLabels=4A4A4A&dates=4A4A4A&currStreakNum=FBFBFA&sideNums=D6D3CC" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Ciricundio&hide_border=true&background=000000&ring=C0001A&fire=C0001A&currStreakLabel=D6D3CC&sideLabels=4A4A4A&dates=4A4A4A&currStreakNum=FBFBFA&sideNums=D6D3CC" />
 
 </div>
 
@@ -73,8 +73,8 @@ Creo que la tecnología más poderosa no se siente como tecnología. Se siente c
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@ciro__mun0z-000000?style=for-the-badge&logo=instagram&logoColor=C0001A&labelColor=000000)](https://www.instagram.com/ciro_mun0z/)
-[![Email](https://img.shields.io/badge/ciromc012@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=C0001A&labelColor=101010)](mailto:ciromc012@gmail.com)
-[![GitHub](https://img.shields.io/badge/Ciricundio-101010?style=for-the-badge&logo=github&logoColor=D6D3CC&labelColor=101010)](https://github.com/Ciricundio)
+[![Email](https://img.shields.io/badge/ciromc012@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=C0001A&labelColor=000000)](mailto:ciromc012@gmail.com)
+[![GitHub](https://img.shields.io/badge/Ciricundio-000000?style=for-the-badge&logo=github&logoColor=D6D3CC&labelColor=000000)](https://github.com/Ciricundio)
 
 </div>
 
