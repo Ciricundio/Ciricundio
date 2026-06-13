@@ -4,13 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=3500&pause=1000&color=F2F0ED&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+Founder+%40+Cyrus+s.a.s;No+construimos+herramientas.;Construimos+futuros+que+te+entienden." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=3500&pause=1000&color=F2F0ED&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+Founder+%40+CYRUM+s.a.s;No+construimos+herramientas.;Construimos+futuros+que+te+entienden." alt="Typing" />
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/CIRO%20A.%20MUÑOZ%20C.-000000?style=for-the-badge&labelColor=000000&color=000000)
 ![](https://img.shields.io/badge/+57-000000?style=for-the-badge&labelColor=000000&color=000000&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxNCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjciIGZpbGw9IiNGQ0QxMTYiLz48cmVjdCB5PSI3IiB3aWR0aD0iMjAiIGhlaWdodD0iMy41IiBmaWxsPSIjMDAzODkzIi8+PHJlY3QgeT0iMTAuNSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjMuNSIgZmlsbD0iI0NFMTEyNiIvPjwvc3ZnPg==)
-![](https://img.shields.io/badge/Status-Building_Cyrus-000000?style=for-the-badge&labelColor=C0001A&color=000000)
+![](https://img.shields.io/badge/Status-Building_CYRUM-000000?style=for-the-badge&labelColor=C0001A&color=000000)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 Construyo software con la misma mentalidad que construyo empresas — **menos ruido, más intención.**
 
-De día diseño sistemas que deberían funcionar. De noche le enseño a la IA a pensar con más contexto que yo. Fundador de **Cyrus s.a.s** — una empresa que existe primero en la visión, luego en el código. En ese orden.
+De día diseño sistemas que deberían funcionar. De noche le enseño a la IA a pensar con más contexto que yo. Fundador de **CYRUM s.a.s** — una empresa que existe primero en la visión, luego en el código. En ese orden.
 
 Creo que la tecnología más poderosa no se siente como tecnología. Se siente como algo que ya debería haber existido.
 
@@ -84,7 +84,7 @@ Creo que la tecnología más poderosa no se siente como tecnología. Se siente c
 
 <br/>
 
-CYRUS S.A.S &nbsp;·&nbsp; Software que entiende.
+CYRUM S.A.S &nbsp;·&nbsp; Software que entiende.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C0001A&height=80&section=footer" width="100%"/>
 
